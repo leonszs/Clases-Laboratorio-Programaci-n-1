@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567967818 source:c:\users\tuki\desktop\vectores2 con bibliotecas\main.c
+	<stdlib.h>
+	"Vectores.h"
+
+1567967866 c:\users\tuki\desktop\vectores2 con bibliotecas\vectores.h
+	<stdio.h>
+
