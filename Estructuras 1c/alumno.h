@@ -1,7 +1,14 @@
 #include <stdio.h>
 #define LIBRE 0
 #define OCUPADO 1
+typedef struct
+{
+    idLocalidad;
 
+
+
+
+}eLocalidad;
 typedef struct
 {
     int legajo;
@@ -17,4 +24,6 @@ void cargarListadoAlumnos(eAlumno[],int );
 void mostrarListadoAlumnos(eAlumno[], int);
 void ordenarAlumnos(eAlumno[],int);
 void hardCodearAlumnos(eAlumno[],int);
-void darDeBaja (eAlumno listaDeNombre[],int);
+void darDeBaja (eAlumno [],int);
+
+

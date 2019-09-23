@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "alumno.h"
+#include <string.h>
 #define A 5
 
 int main()
@@ -23,7 +24,7 @@ int main()
        printf("4. dar de baja \n");
 
        printf("7. salir \n");
-       printf("elija una opcion:  ");
+       printf("elija una opcionn:  ");
        scanf("%d", &opcion);
 
        switch (opcion)
@@ -41,8 +42,12 @@ int main()
        break;
 
 
-     case 4: darDeBaja (listadoAlumnos, A);
-     break;
+       case 4:
+        darDeBaja (listadoAlumnos,A);
+        break;
+
+
+
 
 
 

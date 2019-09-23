@@ -129,6 +129,7 @@ void darDeBaja(eAlumno listaDeNombre[],int tam )
     int flag=0;
 
     printf("ingrese el legajo que quiera dar de baja");
+    fflush(stdin);
     scanf("%d",&legajoBaja);
 
     for (i=0;i<tam;i++)
@@ -145,7 +146,7 @@ void darDeBaja(eAlumno listaDeNombre[],int tam )
 
     if (flag==0)
     {
-        printf("el legajo solicitado no se encuentra");
+        printf(" \n el legajo solicitado no se encuentra");
 
     }
 }

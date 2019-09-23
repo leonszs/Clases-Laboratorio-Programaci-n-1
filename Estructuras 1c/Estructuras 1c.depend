@@ -10,3 +10,15 @@
 1569147346 source:c:\users\tuki\desktop\estructuras 1c\alumno.c
 	"alumno.h"
 
+1569248318 source:c:\users\alumno\desktop\clases-laboratorio-programaci-n-1-master\estructuras 1c\alumno.c
+	"alumno.h"
+
+1569251522 c:\users\alumno\desktop\clases-laboratorio-programaci-n-1-master\estructuras 1c\alumno.h
+	<stdio.h>
+
+1569248167 source:c:\users\alumno\desktop\clases-laboratorio-programaci-n-1-master\estructuras 1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+	<string.h>
+
