@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568095505 source:c:\users\tuki\desktop\arraysillas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sillas.h"
+
+1568095505 c:\users\tuki\desktop\arraysillas\sillas.h
+	<stdio.h>
+
+1568095620 source:c:\users\tuki\desktop\arraysillas\sillas.c
+	"sillas.h"
+

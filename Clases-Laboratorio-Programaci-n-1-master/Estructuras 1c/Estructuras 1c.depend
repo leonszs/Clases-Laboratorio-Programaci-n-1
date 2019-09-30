@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1569147326 source:c:\users\tuki\desktop\estructuras 1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+
+1569147641 c:\users\tuki\desktop\estructuras 1c\alumno.h
+	<stdio.h>
+
+1569147346 source:c:\users\tuki\desktop\estructuras 1c\alumno.c
+	"alumno.h"
+
+1569853117 source:c:\users\alumno\desktop\clases-laboratorio-programaci-n-1-master\estructuras 1c\alumno.c
+	"alumno.h"
+
+1569853111 c:\users\alumno\desktop\clases-laboratorio-programaci-n-1-master\estructuras 1c\alumno.h
+	<stdio.h>
+
+1569853441 source:c:\users\alumno\desktop\clases-laboratorio-programaci-n-1-master\estructuras 1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+	<string.h>
+
