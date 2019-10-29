@@ -1,0 +1,50 @@
+add: agregar un elemento
+
+set:lo q hace es poner un elemento arriba de otro
+
+remove: saca un elemento de la lista, devuelve int
+clear: borra los elementos
+
+indexof: le pasas un elemento y dice en que indice està
+
+isempty: me dice si hay algo en la lista o no 
+illen: si hay al menos 1 
+
+push: pone algo en el medio pero lo demas sigue estando. AGREGA
+
+pop: elimina, pero antes de borrarlo lo devuelve 
+
+Contain: me pasa una lista, y me dice si tiene el elemento
+
+sublist: una lista dentro de otra
+crol: crea una copia identica de la lista, PERO DISTINTA
+sor: ordena 
+
+
+int option = 0;
+linkedlist*  listaEmpleados = il_newlinkedlist();
+
+
+il_add (listaempleads,e1);
+il_add(listaempleads,e2);
+il_add (listaempleads,e3);
+il_add (listaempleads,e4);
+
+employe*aux
+agreguè 3 empleados. 
+
+
+mostrar elementos: 
+int = x;
+int len;
+len = il_len (listaempleads);    para saber cuantos hay
+for (x=0; x<len;i++)
+{ 
+
+aux = (employe*) il_get(listaempleads,x);                   ()casteo //     
+
+
+} 
+
+il_set  (listaempleads,2,e4)              agrega un elemento sobre otro 
+ 
